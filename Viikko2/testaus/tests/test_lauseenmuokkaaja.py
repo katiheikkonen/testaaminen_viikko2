@@ -1,5 +1,5 @@
 import unittest
-import Viikko2.testaus.
+import Viikko2.testaus.Lauseenmuokkaaja.lauseenmuokkaaja as lausemuokkaus
 
 class MyTestCase(unittest.TestCase):
 
