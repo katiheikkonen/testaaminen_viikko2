@@ -1,9 +1,13 @@
 import unittest
-
+import Viikko2.testaus.
 
 class MyTestCase(unittest.TestCase):
-    def test_something(self):
+
+    # testaa sanat jonka pituus on 5 tai enemmän
+    def test_reverse_word(self):
         self.assertEqual(True, False)
+
+    #testaa sanat, joiden pituus on kaksi
 
 
 if __name__ == '__main__':
